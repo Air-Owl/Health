@@ -13,6 +13,7 @@
         <module>Health_Backend</module>
         <module>Health_Interface</module>
         <module>Health_Service_Provider</module>
+        <module>Health_Backend</module>
     </modules>
 
     <properties>
